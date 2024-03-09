@@ -1,95 +1,22 @@
 {
-  "sunglasses" : [
-        {
-        "id": 81,
-        "title": "Round Silver Frame Sun Glasses",
-        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-        "price": 19,
-        "discountPercentage": 10.1,
-        "rating": 4.94,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 82,
-        "title": "Kabir Singh Square Sunglass",
-        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-        "price": 50,
-        "discountPercentage": 15.6,
-        "rating": 4.62,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 83,
-        "title": "Wiley X Night Vision Yellow Glasses",
-        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-        "price": 30,
-        "discountPercentage": 6.33,
-        "rating": 4.97,
-        "stock": 115,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 84,
-        "title": "Square Sunglasses",
-        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-        "price": 28,
-        "discountPercentage": 13.89,
-        "rating": 4.64,
-        "stock": 64,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 85,
-        "title": "LouisWill Men Sunglasses",
-        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-        "price": 50,
-        "discountPercentage": 11.27,
-        "rating": 4.98,
-        "stock": 92,
-        "brand": "LouisWill",
-        "category": "sunglasses",
-        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
-        }
-        ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "34bb",
+      "title": "Dipayan Roy",
+      "body": "I am a good Boy!",
+      "author": "mario"
+    }
+  ]
 }
